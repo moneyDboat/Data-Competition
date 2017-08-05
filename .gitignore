@@ -1,3 +1,5 @@
 DataCastle/Datasets/*
 Kaggle/Datasets/*
-*.ipynb_checkpoints
+
+# Jupyter Notebook
+.ipynb_checkpoints
